@@ -42,6 +42,18 @@ MiroFish 致力于创建一个映射现实的群体智能镜像。通过捕捉�
 <td><img src="./static/image/Screenshot/运行截图5.png" alt="Screenshot 5" width="100%"/></td>
 <td><img src="./static/image/Screenshot/运行截图6.png" alt="Screenshot 6" width="100%"/></td>
 </tr>
+<tr>
+<td><img src="./static/image/Screenshot/运行截图7.png" alt="Screenshot 7" width="100%"/></td>
+<td><img src="./static/image/Screenshot/运行截图8.png" alt="Screenshot 8" width="100%"/></td>
+</tr>
+<tr>
+<td><img src="./static/image/Screenshot/运行截图9.png" alt="Screenshot 9" width="100%"/></td>
+<td><img src="./static/image/Screenshot/运行截图10.png" alt="Screenshot 10" width="100%"/></td>
+</tr>
+<tr>
+<td><img src="./static/image/Screenshot/运行截图11.png" alt="Screenshot 11" width="100%"/></td>
+<td><img src="./static/image/Screenshot/运行截图12.png" alt="Screenshot 12" width="100%"/></td>
+</tr>
 </table>
 </div>
 
